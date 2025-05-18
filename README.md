@@ -44,4 +44,4 @@ Expandable Features (suggested for future updates)
 User session history.
 Feedback thumbs-up/down for each answer.
 Emojis, command shortcuts, or theme customization. </p>
-<img src="C:\Users\LENOVO\Desktop\Eva Virtual Assistant+ Chatbot\read.jpg" alt="Img"/>
+<img src="read.jpg" alt="Img"/>
